@@ -71,8 +71,8 @@ src/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/Alya351/nak_g09_2025.git
-cd nak_g09_2025
+git clone https://github.com/Alya351/NAK_Gestion.git
+cd NAK_Gestion
 ```
 
 ### 2. Configurer la base de données
